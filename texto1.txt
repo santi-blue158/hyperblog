@@ -1,4 +1,3 @@
-mi nombre es santiago
-soy de colombia
-me gusta el chocolate
-soy botones
+hola que mas
+soy santiago
+estoy escribiendo desde la consola
